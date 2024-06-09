@@ -8,7 +8,7 @@ This project was made using [OnShape CAD](https://www.onshape.com/). The files a
 - Electromagnet
 - ESC (I used the discontinued [REV Spark](https://www.revrobotics.com/spark-motor-controller/) ESC)
 - arduino Nano (I used the atmega328 chip)
-- li-Ion 12v battery
+- li-Ion [12v battery](https://www.amazon.com/dp/B0C242DYT1/?coliid=I3BEJNDCDNSCGL&colid=T4W5BLYM24U0&ref_=list_c_wl_lv_ov_lig_dp_it&th=1)
 
 ## Electronics
 
